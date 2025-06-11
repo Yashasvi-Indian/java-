@@ -1,4 +1,4 @@
  this for those who want to do java from scratch. 
-i switched to python as i found it a bit efficient.
+i  never switched to python in between
 
  ..hope this will be helpful
